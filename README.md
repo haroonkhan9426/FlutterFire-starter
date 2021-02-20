@@ -9,6 +9,8 @@ This template repo's main purpose is to avoid setting up flutter project again a
     2. Google, Facebook, Apple login
 5. Firebase FCM integration
 6. locator for easy and flexible dependency injection
+7. Provider for state-management
+8. GetIt for context-free navigation, alerts, snackbars etc.
 
 
 
